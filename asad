@@ -1,0 +1,52 @@
+[1mdiff --git a/index.html b/index.html[m
+[1mindex adce54c..9e34f94 100644[m
+[1m--- a/index.html[m
+[1m+++ b/index.html[m
+[36m@@ -133,15 +133,16 @@[m
+ [m
+     <div id="backtotop" class="backtotop"><i class="fa fa-arrow-up" aria-hidden="true"></i></div>[m
+ [m
+[31m-    <!-- [m
+[32m+[m[41m    [m
+     <section id="sub-footer" class="sub-footer">[m
+[31m-    </section> -->[m
+[32m+[m[32m    </section>[m
+ [m
+     <section id="footer" class="footer">[m
+[31m-        <p><a href="#banner">XDELTA</a> 2023 All Rights Reseved</p>[m
+[32m+[m[32m        <p> <a href="#banner">XDELTA</a> 2023 All Rights Reseved</p>[m
+     </section>[m
+ [m
+ [m
+     <script src="main.js"></script>[m
+[32m+[m
+ </body>[m
+ </html>[m
+\ No newline at end of file[m
+[1mdiff --git a/main.js b/main.js[m
+[1mindex 93e19dd..055beec 100644[m
+[1m--- a/main.js[m
+[1m+++ b/main.js[m
+[36m@@ -10,7 +10,8 @@[m
+             }[m
+         });[m
+ [m
+[31m-        // top scroller[m
+[32m+[m[32m        // top-scroller[m
+[32m+[m
+         let el1 = document.querySelector(".top-scroller");[m
+         let height = document.documentElement.scrollHeight - document.documentElement.clientHeight;[m
+ [m
+[1mdiff --git a/style.css b/style.css[m
+[1mindex eabe71a..d1b65c1 100644[m
+[1m--- a/style.css[m
+[1m+++ b/style.css[m
+[36m@@ -64,8 +64,6 @@[m [mbody[data-theme="dark"] {[m
+     background: var(--color-7-t);[m
+ }[m
+ [m
+[31m-/* end global */[m
+[31m-[m
+ [m
+ .navbar {[m
+     position: fixed;[m
