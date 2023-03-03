@@ -260,7 +260,7 @@ body[data-theme="dark"] {
     justify-content: center;
     align-items: center;
     z-index: 11;
-    background-image: url("/images/custom-software-application-about-us-bg.jpg");
+    background-image: url("../images/custom-software-application-about-us-bg.jpg");
     background-attachment: fixed;
     background-size: cover;
     background-position:center;
@@ -435,7 +435,7 @@ body[data-theme="dark"] {
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    background-image: url("/images/softwar-development.jpg");
+    background-image: url("../images/softwar-development.jpg");
     background-attachment: fixed;
     background-size: cover;
     background-position:center;
