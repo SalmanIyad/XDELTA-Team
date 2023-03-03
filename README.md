@@ -1,11 +1,9 @@
 # XDELTA-Team-Page
 Portfolio team Project 
 
-## Features:                                                            |
-| Top Progress Line |
-| Theme Swither |
-| Nice Scroll Bar |
-| Smoth Web page |
+## Features:
+| Top Progress Line | Theme Swither |
+| Nice Scroll Bar | Smoth Web page |
 
 ## Skills Used:
 
