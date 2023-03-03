@@ -1,9 +1,19 @@
 # XDELTA-Team-Page
 Portfolio team Project 
-## Responsivety -- Comming Soon!
+<h2> Responsivety -- Comming Soon! </h2>
+<br>
+## Skills Used:
+
+```
+HTML, CSS, JS
+```
+
+<br>
 # Tamplate ScreenShots
-Dark Theme
-![Screenshot](https://user-images.githubusercontent.com/110406908/222732969-2a34dc7a-e9e3-4477-87b5-6a152e171799.png)
-Light Theme
-![light_Screenshot](https://user-images.githubusercontent.com/110406908/222733190-b1e4b5db-04f9-44d2-a0e8-f61fc7fcb3eb.png)
+<h3>Dark Theme</h3>
+![Firefox_Screenshot_2023-03-03T13-40-18 753Z](https://user-images.githubusercontent.com/110406908/222734804-18571388-49a5-40eb-b725-bc4a3357572a.png)
+<br>
+<hr>
+<h3>Light Theme</h3>
+![Firefox_Screenshot_2023-03-03T13-40-28 268Z](https://user-images.githubusercontent.com/110406908/222734819-1c6694c1-2977-4729-b128-66859a1502c9.png)
 
