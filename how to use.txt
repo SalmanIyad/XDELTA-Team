@@ -1,0 +1,138 @@
+
+Git and GitHub for Beginners Tutorial [link] : https://www.youtube.com/watch?v=tRZGeaHPoaw
+
+
+
+
+In this step-by-step tutorial, learn how to use Git and GitHub for source control management (SCM). We start with Git. What is it? How you can get it running on your system, and how you can start working with it? Then we look at GitHub.com, a platform for hosting and collaborating on Git repositories.  By the end of this video, you'll be well on your way to using Git and GitHub. If you'd like to follow along, I've included sample files down below.
+
+
+📚 RESOURCES
+- Sample files to follow along: https://1drv.ms/u/s!AmxrofZZlZ-whOIll...
+- Official Git web site: https://www.git-scm.com/
+- Official GitHub.com web site: https://github.com/
+- Git and GitHub.com cheat sheet: https://education.github.com/git-chea...
+- Git Reference Manual: http://git-scm.com/docs
+- Git Overview Book: http://git-scm.com/book/en/v2
+- Sample ignore files: https://github.com/github/gitignore
+- Hyper.is Terminal: https://hyper.is/
+
+
+
+⌚ TIMESTAMPS
+00:00 Introduction
+00:40 What is Git?
+02:11 Get Git
+03:13 Configure Git
+04:55 Get help
+05:59 Initialize repository
+07:19 Git status
+07:53 Track and untrack files
+09:18 Ignore files with .gitignore
+11:23 Track all files / add to staging
+12:07 Commit
+13:27 Change files and view differences
+16:00 Bypass staging and commit
+16:32 Delete / remove files
+17:13 Restore files
+17:55 Rename files
+18:56 View commit history with git log
+19:52 Amend commit
+20:48 View changes in commits
+22:08 Reset to previous commit
+22:30 Rebase git repository
+23:12 Branches
+27:19 Merge branches
+27:57 Delete branch
+28:30 Merge conflicts
+32:16 Typical Git flow
+32:37 Set up GitHub account
+33:37 Create new cloud repository
+35:09 Push local repo to GitHub
+37:29 Working with files
+38:25 Edit repo details
+38:44 Issues
+40:17 Pull requests
+43:05 Actions, Projects, Wiki, Security, Insights, Settings
+44:18 Releases
+45:00 Fetch and pull
+45:37 Wrap up
+ 
+🖥️ GIT COMMANDS CHEAT SHEET
+Set configuration values for your username and email
+git config --global user.name YOUR NAME
+git config --global user.email YOUR EMAIL
+
+Set default branch to main
+git config --global init.default branch main
+
+Get help on a command
+git help COMMAND
+git COMMAND -h
+
+Initialize a new git repository
+git init
+
+Clone a repository
+git clone REPOSITORY URL
+
+Add a file to the staging area
+git add FILE
+
+Add all file changes to the staging area
+git add --all
+git add -A
+git add .
+
+Check the unstaged changes
+git diff
+
+Commit the staged changes
+git commit -m "MESSAGE"
+
+Reset staging area to the last commit
+git reset
+
+Check the state of the working directory and the staging area
+git status
+
+Remove a file from the index and working directory
+git rm FILENAME
+
+Rename a file
+git mv (OLD NAME) (NEW NAME)
+
+List the commit history
+git log
+
+List all the local branches
+git branch
+
+Create a new branch
+git branch BRANCH NAME
+
+Rename the current branch
+git branch -m NEW BRANCH NAME
+
+Delete a branch
+git branch -d BRANCH NAME
+
+Switch to another branch
+git switch BRANCH NAME
+
+Merge specified branch into the current branch
+git merge BRANCH NAME
+
+Create a connection to a remote repository
+git remote add (NAME) (REPOSITORY URL)
+
+Push the committed changes to a remote directory
+git push (REMOTE) (BRANCH)
+
+Download the content from a remote repository
+git pull REMOTE
+
+📺 RELATED VIDEOS
+- Playlist with all my videos on Git and GitHub: https://youtube.com/playlist?list=PLl...
+- Python for Beginners Tutorial: https://youtu.be/b093aqAZiPU
+- SQL for Beginners Tutorial: https://youtu.be/h0nxCDiD-zg
