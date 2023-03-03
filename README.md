@@ -7,7 +7,7 @@ Team Portfolio FrontEnd Project
 Top Progress Line 
 Theme Swither 
 Nice Scroll Bar 
-Smoth Web page
+Smooth Web page
 Back To Top Button
 ```
 ## Skills Used:
