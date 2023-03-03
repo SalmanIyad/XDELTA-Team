@@ -5,7 +5,7 @@ Team Portfolio FrontEnd Project
 
 ```
 Top Progress Line 
-Theme Swither 
+Theme Switcher 
 Nice Scroll Bar 
 Smooth Web page
 Back To Top Button
